@@ -1,5 +1,5 @@
 # Wardaya_Battleships
-Makin' me a battleship game for my school project
+Makin' me a battleship game for my school project using the python curses library
 
 Red = Player 1
 Blue = Player 2
