@@ -9,7 +9,7 @@ This code has been made to be, as much as possible, unbreakable (assuming you do
 So if you click where you should type or type where you should click or go out of bounds or whatever, it'll be fine :P.
 All instructions to play the game is in there, so you'd have no trouble.
 NOTE:
-Do not cheat during ship placement phase
+Do not cheat during ship placement phase.
 Get all enemy ships to win!
 
 Enjoy :D
